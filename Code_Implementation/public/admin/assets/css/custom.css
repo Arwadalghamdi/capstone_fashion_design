@@ -1,0 +1,127 @@
+.loginBG {
+    background: #f9f6f1
+}
+.imgageLogin {
+    height: 201px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    border-radius: 50px;
+}
+.btn-primary {
+    color: #fff !important;
+    background-color: #51512c;
+    border-color: #51512c;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #51512c;
+    border-color: #51512c;
+}
+.menu .app-brand.demo {
+    height: 138px;
+    margin-top: 4px;
+    justify-content: center;
+}
+.bg-menu-theme {
+    background-color: #ffffff !important;
+    color: #ffffff;
+}
+
+.bg-menu-theme .menu-inner > .menu-item.active > .menu-link {
+    color: #000000;
+    background-color: white !important;
+}
+.bg-menu-theme .menu-inner > .menu-item.active:before {
+    background: #79c43c;
+}
+.bg-menu-theme .menu-header {
+    color: #ffffff;
+}
+.bg-menu-theme .menu-link, .bg-menu-theme .menu-horizontal-prev, .bg-menu-theme .menu-horizontal-next {
+    color: #ffffff;
+}
+.faReview {
+    font-size: 37px;
+    color: #ffffff;
+}
+.layout-page {
+    background-color: #ffffff;
+}
+.avatar2 {
+    position: relative;
+    width: 2.375rem;
+    border-radius: 7px;
+    border: 2px solid #ffffff;
+    height: 2.375rem;
+    cursor: pointer;
+}
+.btn-success {
+    color: #fff;
+    background-color: #51512c;
+    border-color: #51512c;
+    box-shadow: 0 0.125rem 0.25rem 0 #51512c;
+}
+.btn-success:hover {
+    color: #fff;
+    background-color: #51512c;
+    border-color: #51512c;
+    transform: translateY(-1px);
+}
+.bg-success {
+    --bs-bg-opacity: 1;
+    background-color: #51512c !important;
+}
+.menu-vertical .menu-inner {
+    flex-direction: column;
+    flex: 1 1 auto;
+    background: #a5a583;
+}
+.table-responsive {
+    padding: 30px;
+}
+.dd6 {
+      color: #6d6d46;
+  }
+.layout-navbar {
+    background-color: rgb(165 165 131) !important;
+    -webkit-backdrop-filter: saturate(200%) blur(6px);
+    backdrop-filter: saturate(200%) blur(6px);
+}
+.welcomeAdmin {
+    color: #000000;
+    border-top: 1px solid #9b9b9b;
+    padding-top: 10px;
+}
+.app-brand-link {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.bg-menu-theme.menu-vertical {
+     box-shadow: none;
+    border-right: 1px solid #a5a583;
+}
+.searchhh {
+    color: #ffffff;
+    background: #727250;
+    padding: 7.3px;
+}
+
+.no-borderd {
+    border-radius:0;
+}
+.bellls {
+    background: #ff5050;
+    position: absolute;
+    left: 25px;
+    border-radius: 10px;
+}
+.btn-danger {
+    color: #fff;
+    background-color: #ff8d7a;
+    border-color: #ff8d7a;
+}
+.fa-angular {
+    display: none !important;
+}
